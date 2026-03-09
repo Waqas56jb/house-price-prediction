@@ -1,0 +1,81 @@
+area,location,bedrooms,bathrooms,area_sqft,house_size_marla,year_built,garage,price_pkr
+Satellite Town,Main City,5,5,3500,10,2018,1,32000000
+Satellite Town,Main City,4,4,2800,8,2016,1,27000000
+New Satellite Town,Sargodha,6,6,5000,20,2020,2,52000000
+University Road,Sargodha,3,3,1800,5,2015,1,15000000
+Khayaban-e-Naveed,Sargodha,5,5,4200,12,2019,2,38000000
+Fatima Jinnah Road,Sargodha,4,4,2600,8,2017,1,24000000
+Farooq Colony,Sargodha,3,3,1500,5,2014,0,12000000
+Amin Bazar,Sargodha,5,5,3600,10,2021,2,45000000
+Model Town,Sargodha,4,4,3000,8,2018,1,28000000
+Shahbaz Town,Sargodha,3,3,1700,5,2016,0,14000000
+Satellite Town,Sargodha,4,4,2900,8,2017,1,26000000
+Satellite Town,Sargodha,5,5,3400,10,2019,2,34000000
+New Satellite Town,Sargodha,3,3,2000,5,2015,1,16000000
+University Road,Sargodha,4,4,2600,7,2018,1,23000000
+Khayaban-e-Naveed,Sargodha,6,6,4800,20,2022,2,60000000
+Fatima Jinnah Road,Sargodha,3,3,1800,5,2014,0,13000000
+Farooq Colony,Sargodha,4,4,2500,7,2016,1,20000000
+Amin Bazar,Sargodha,5,5,3500,10,2020,2,42000000
+Model Town,Sargodha,4,4,3000,8,2017,1,27000000
+Shahbaz Town,Sargodha,3,3,1600,5,2015,0,13500000
+Satellite Town,Sargodha,5,5,3700,10,2021,2,46000000
+Satellite Town,Sargodha,4,4,2800,8,2018,1,25000000
+New Satellite Town,Sargodha,3,3,1900,5,2016,1,15500000
+University Road,Sargodha,4,4,2600,7,2017,1,22000000
+Khayaban-e-Naveed,Sargodha,6,6,5200,20,2022,2,65000000
+Fatima Jinnah Road,Sargodha,3,3,1800,5,2015,0,14000000
+Farooq Colony,Sargodha,4,4,2400,7,2016,1,19500000
+Amin Bazar,Sargodha,5,5,3600,10,2021,2,43000000
+Model Town,Sargodha,4,4,2900,8,2018,1,27500000
+Shahbaz Town,Sargodha,3,3,1700,5,2014,0,12000000
+Satellite Town,Sargodha,5,5,3800,10,2020,2,47000000
+Satellite Town,Sargodha,4,4,2700,8,2017,1,25500000
+New Satellite Town,Sargodha,3,3,2000,5,2016,1,16000000
+University Road,Sargodha,4,4,2500,7,2017,1,22500000
+Khayaban-e-Naveed,Sargodha,6,6,5000,20,2021,2,62000000
+Fatima Jinnah Road,Sargodha,3,3,1750,5,2015,0,13500000
+Farooq Colony,Sargodha,4,4,2400,7,2016,1,19800000
+Amin Bazar,Sargodha,5,5,3550,10,2020,2,44000000
+Model Town,Sargodha,4,4,2950,8,2019,1,29000000
+Shahbaz Town,Sargodha,3,3,1650,5,2015,0,13000000
+Satellite Town,Sargodha,5,5,3600,10,2021,2,45000000
+Satellite Town,Sargodha,4,4,2750,8,2018,1,26000000
+New Satellite Town,Sargodha,3,3,1950,5,2016,1,15800000
+University Road,Sargodha,4,4,2550,7,2017,1,23000000
+Khayaban-e-Naveed,Sargodha,6,6,5100,20,2022,2,64000000
+Fatima Jinnah Road,Sargodha,3,3,1800,5,2014,0,13200000
+Farooq Colony,Sargodha,4,4,2450,7,2016,1,20500000
+Amin Bazar,Sargodha,5,5,3650,10,2021,2,45500000
+Model Town,Sargodha,4,4,3000,8,2019,1,29500000
+Shahbaz Town,Sargodha,3,3,1700,5,2016,0,14000000
+Satellite Town,Sargodha,5,5,3750,10,2022,2,48000000
+Satellite Town,Sargodha,4,4,2800,8,2019,1,27000000
+New Satellite Town,Sargodha,3,3,2000,5,2017,1,16500000
+University Road,Sargodha,4,4,2600,7,2018,1,24000000
+Khayaban-e-Naveed,Sargodha,6,6,5300,20,2023,2,67000000
+Fatima Jinnah Road,Sargodha,3,3,1800,5,2016,0,14500000
+Farooq Colony,Sargodha,4,4,2500,7,2017,1,21000000
+Amin Bazar,Sargodha,5,5,3700,10,2022,2,47000000
+Model Town,Sargodha,4,4,3050,8,2020,1,30000000
+Shahbaz Town,Sargodha,3,3,1750,5,2017,0,15000000
+Satellite Town,Sargodha,5,5,3900,10,2022,2,50000000
+Satellite Town,Sargodha,4,4,2900,8,2020,1,28000000
+New Satellite Town,Sargodha,3,3,2100,5,2018,1,17000000
+University Road,Sargodha,4,4,2650,7,2019,1,24500000
+Khayaban-e-Naveed,Sargodha,6,6,5400,20,2023,2,70000000
+Fatima Jinnah Road,Sargodha,3,3,1850,5,2017,0,15000000
+Farooq Colony,Sargodha,4,4,2550,7,2018,1,21500000
+Amin Bazar,Sargodha,5,5,3800,10,2023,2,49000000
+Model Town,Sargodha,4,4,3100,8,2021,1,31000000
+Shahbaz Town,Sargodha,3,3,1800,5,2018,0,15500000
+Satellite Town,Sargodha,5,5,4000,10,2023,2,52000000
+Satellite Town,Sargodha,4,4,3000,8,2021,1,29000000
+New Satellite Town,Sargodha,3,3,2200,5,2019,1,17500000
+University Road,Sargodha,4,4,2700,7,2020,1,25000000
+Khayaban-e-Naveed,Sargodha,6,6,5500,20,2024,2,72000000
+Fatima Jinnah Road,Sargodha,3,3,1900,5,2018,0,15500000
+Farooq Colony,Sargodha,4,4,2600,7,2019,1,22000000
+Amin Bazar,Sargodha,5,5,3900,10,2024,2,51000000
+Model Town,Sargodha,4,4,3200,8,2022,1,32000000
+Shahbaz Town,Sargodha,3,3,1850,5,2019,0,16000000
